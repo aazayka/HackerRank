@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class Solution
 {
-
 static class Node{
     Node less;
     Node more;
